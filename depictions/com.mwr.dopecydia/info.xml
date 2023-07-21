@@ -29,11 +29,6 @@
 	<descriptionlist>
 		<description>This is a rootless variant of the package manager "Cydia" for dopamine and xinam1ne.</description>
 		<description>DopeCydia was made possible by the.sudo, x6ds, and lzpw!.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
