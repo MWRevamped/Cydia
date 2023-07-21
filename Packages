@@ -1,5 +1,5 @@
 Package: com.mwr.dopecydia
-Version: 1.1.36
+Version: 1.1.37
 Section: Package Managers
 Maintainer: MWR <@lzpw>
 Depends: firmware (>15.2), mobilesubstrate, darwintools, debianutils, dpkg (>=1.19.1), sed, shell-cmds, system-cmds, uikittools (>=1.1.14), xz, xyz.cypwn.xinam1ne
