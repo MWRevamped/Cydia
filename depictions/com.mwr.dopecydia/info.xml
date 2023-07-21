@@ -1,14 +1,29 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>com.mwr.dopecydia</id>
+	<name>DopeCydia</name>
+	<version>1.1.36</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>15.2</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>darwintools</package>
+		<package>debianutils</package>
+		<package>sed</package>
+		<package>shell-cmds</package>
+		<package>system-cmds</package>
+		<package>xz</package>
+		<package>xyz.cypwn.xinam1ne</package>
+		 <package>
+        	<name>dpkg</name>
+      	        <version>1.19.1</version>
+  		 </package>
+		 <package>
+        	<name>uikittools</name>
+      	        <version>1.1.14</version>
+  		 </package>
 	</dependencies>
 	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
