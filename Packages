@@ -4,7 +4,7 @@ Section: Package Managers
 Maintainer: MWR <@lzpw>
 Depends: firmware (>15.2), mobilesubstrate, darwintools, debianutils, dpkg (>=1.19.1), sed, shell-cmds, system-cmds, uikittools (>=1.1.14), xz, xyz.cypwn.xinam1ne
 Architecture: iphoneos-arm64
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Filename: ./debs/com.mwr.dopecydia_1.1.36_iphoneos-arm64.debb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a rootless variant of cydia (for dopamine/xinam1ne)
