@@ -6,7 +6,7 @@ Depends: firmware (>15.2), mobilesubstrate, darwintools, debianutils, dpkg (>=1.
 Architecture: iphoneos-arm64
 Filename: ./debs/com.mwr.dopecydia_1.1.36_iphoneos-arm64.deb
 Size: 1.26
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: 79c8de11dde19b66dad5ef4330ffed18
 Description: This is a rootless variant of cydia (for dopamine/xinam1ne)
 Name: DopeCydia
 Author: MWR <@lzpw>
