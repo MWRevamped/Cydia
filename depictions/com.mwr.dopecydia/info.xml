@@ -25,10 +25,10 @@
       	        <version>1.1.14</version>
   		 </package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is Cydia for Dopamine/Xinam1ne. Firmware should be greater than 15.2</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>This is a rootless variant of the package manager "Cydia" for dopamine and xinam1ne.</description>
+		<description>DopeCydia was made possible by the.sudo, x6ds, and lzpw!.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
