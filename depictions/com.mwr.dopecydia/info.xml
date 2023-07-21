@@ -16,14 +16,14 @@
 		<package>system-cmds</package>
 		<package>xz</package>
 		<package>xyz.cypwn.xinam1ne</package>
-		 <package>
-        	<name>dpkg</name>
-      	        <version>1.19.1</version>
-  		 </package>
-		 <package>
-        	<name>uikittools</name>
-      	        <version>1.1.14</version>
-  		 </package>
+          <package>
+            <name>dpkg</name>
+            <version>1.19.1</version>
+        </package>
+        <package>
+            <name>uikittools</name>
+            <version>1.1.14</version>
+        </package>
 	</dependencies>
 	<shortDescription>This is Cydia for Dopamine/Xinam1ne. Firmware should be greater than 15.2</shortDescription>
 	<descriptionlist>
