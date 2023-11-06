@@ -1,10 +1,10 @@
 Package: com.mwr.dopecydia
-Version: 1.1.37
+Version: 1.1.38
 Section: Package Managers
 Maintainer: MWR <@lzpw>
 Depends: firmware (>15.2), mobilesubstrate, darwintools, debianutils, dpkg (>=1.19.1), sed, shell-cmds, system-cmds, uikittools (>=1.1.14), xz, xyz.cypwn.xinam1ne
 Architecture: iphoneos-arm64
-Filename: ./debs/com.mwr.dopecydia_1.1.37_iphoneos-arm64.deb
+Filename: ./debs/com.mwr.dopecydia_1.1.38_iphoneos-arm64.deb
 Size: 1.26
 MD5sum: 9729fea4ea73dba036ca2312647ceac6
 Description: This is a rootless variant of cydia (for dopamine/xinam1ne)
