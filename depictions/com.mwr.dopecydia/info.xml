@@ -21,7 +21,7 @@
 	</dependencies>
 	<shortDescription>This is Cydia for Dopamine/Xinam1ne. Firmware should be greater than 15.2</shortDescription>
 	<descriptionlist>
-		<description>This is a rootless variant of the package manager "Cydia" for dopamine and xinam1ne.</description>
+		<description>This is a rootless variant of the package manager "Cydia" for dopamine and xinam1ne. IMPORTANT, YOU MUST UNINSTALL THIS PACKAGE FROM FILZA IF ON XINA, THIS IS TO PREVENT VAR DELETION</description>
 		<description>DopeCydia was made possible by the.sudo, x6ds, and lzpw!</description>
 	</descriptionlist>
 	<screenshots>
