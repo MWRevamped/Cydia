@@ -5,4 +5,4 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: Cydia Rootless - A repo that contains the rootless variant of cydia
+Description: Cydia Rootless - A repo that contains the rootless variant of Cydia, and debs for rootless and rootful jailbreaks.
